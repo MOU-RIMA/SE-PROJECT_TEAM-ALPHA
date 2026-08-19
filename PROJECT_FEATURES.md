@@ -1,2 +1,2 @@
-## Rename Student ID
-Renamed the id field to studentId for better clarity.
+## Rename Student Name
+Renamed the name field to studentName for better clarity.
