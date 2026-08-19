@@ -1,7 +1,7 @@
 struct Student
 {
-    int studentId;  
-    char name[100];
+    int studentId;
+    char studentName[100]; 
     int age;
     char dateOfBirth[15];
     float cgpa;
