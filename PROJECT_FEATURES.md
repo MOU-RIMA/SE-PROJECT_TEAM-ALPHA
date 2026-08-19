@@ -1,2 +1,2 @@
-## Student Date of Birth
-The system now stores the date of birth of every student.
+## Improve Phone Capacity
+Increased the maximum phone number length to 25 characters.
